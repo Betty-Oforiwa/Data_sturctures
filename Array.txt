@@ -1,0 +1,74 @@
+Definition of Array
+----------------------------------------
+An Array is a structure containing a number of data values (all of which are of the same data type)
+Data structure is a format or sotringand organizing data.
+  
+  One Dimensional Array
+  ----------------------------
+  a single row divided into blocks 
+  were the block of memory (variable)
+  Array collection of variable
+
+
+  Printing One Dimensional Array in C
+----------------------------------------
+1D array elements can be printed using 
+single for loop
+example:
+       int [5] = {1,2,3,4,5}
+            for (i=0; i< 5; i++)
+        {
+            printf("%d", a[i])
+        }
+
+
+  Declear and Define One Dimensional Array
+  --------------------------------------------- 
+  Syntax: data_type, name of the array, [no. of elements];
+  The length of the array can be specified by any positive integer constant expression:
+   int arr[6];
+   int arr[5+5];
+   int arr[5*3];
+   int a;
+   int arr [a = 21/3];
+
+Two Dimensional Array
+-----------------------------
+
+Syntax: data_type name_of_array [x] [y];
+where x and y is the size of the array x= raw y= column
+
+Visualizing Two Dimensional Array
+---------------------------------------
+this is were we have both row and column in place
+int arr[4] [5];
+
+Initialize Two Dimensional Array
+----------------------------------------
+there are two methods
+Method 1;
+int a[2][3] = {1,2,3,4,5}
+Method 2;
+int a[2][3] = {{1,2,3},{4,5,6}}
+
+Printing Two Dimensional Array in C
+----------------------------------------
+2D array elements can be printed using nested for loop
+example:
+    for(i=0; i<2; i++)
+    {
+        for (j=0, j<2; j++)
+        {
+            printf("%d", a[i] [j]);
+        }
+    }
+
+
+
+
+
+
+
+
+
+NB: CHECK array.drawio FOR MORE EXPLANATION

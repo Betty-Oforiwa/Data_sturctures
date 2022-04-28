@@ -9,7 +9,7 @@ Data structure is a format or sotringand organizing data.
   were the block of memory (variable)
   Array collection of variable
 
-
+c813125123betty
   Printing One Dimensional Array in C
 ----------------------------------------
 1D array elements can be printed using 
@@ -65,10 +65,23 @@ example:
 
 
 
-
+Printing Array in java
+-----------------------------------
+ String[] newArr = newString[]
+ String[4];
+ newArr[0] = "hi"
+ String x = newArr[4]
+ System.out.print(x)
 
 
 
 
 
 NB: CHECK array.drawio FOR MORE EXPLANATION
+
+
+int betty[5];
+int[] betty; (Declare)
+
+int betty = {2,4,5,3,8}
+joe

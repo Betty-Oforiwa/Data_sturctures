@@ -9,7 +9,7 @@ Data structure is a format or sotringand organizing data.
   were the block of memory (variable)
   Array collection of variable
 
-c813125123betty
+
   Printing One Dimensional Array in C
 ----------------------------------------
 1D array elements can be printed using 

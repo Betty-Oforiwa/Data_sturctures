@@ -78,3 +78,10 @@ Printing Array in java
 
 
 NB: CHECK array.drawio FOR MORE EXPLANATION
+
+
+int betty[5];
+int[] betty; (Declare)
+
+int betty = {2,4,5,3,8}
+joe

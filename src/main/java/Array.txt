@@ -1,7 +1,7 @@
 Definition of Array
 ----------------------------------------
 An Array is a structure containing a number of data values (all of which are of the same data type)
-Data structure is a format or sotringand organizing data.
+Data structure is a format or sorting and organizing data.
   
   One Dimensional Array
   ----------------------------
@@ -22,7 +22,7 @@ example:
         }
 
 
-  Declear and Define One Dimensional Array
+  Declare and Define One Dimensional Array
   --------------------------------------------- 
   Syntax: data_type, name of the array, [no. of elements];
   The length of the array can be specified by any positive integer constant expression:
@@ -40,7 +40,7 @@ where x and y is the size of the array x= raw y= column
 
 Visualizing Two Dimensional Array
 ---------------------------------------
-this is were we have both row and column in place
+this is where we have both row and column in place
 int arr[4] [5];
 
 Initialize Two Dimensional Array

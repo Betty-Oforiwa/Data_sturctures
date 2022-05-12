@@ -12,7 +12,6 @@ public class Array {
             System.out.println(joe[i]);
         }
 
-
 //         two Dimensional Array
         int[][] bet = {{1, 4, 2}, {5, 2, 5}};
         System.out.println(bet[0][0]);
